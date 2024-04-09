@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
-    //3) Criar um programa para calcular a densidade demogr·fica (habitantes por quilÙmetro quadrado) de uma regi„o. 
-    //Sendo, densidade igual a populaÁ„o (total de habitantes) dividida pela ·rea (metros quadrados). 
+    //3) Criar um programa para calcular a densidade demogr√°fica (habitantes por quil√¥metro quadrado) de uma regi√£o. 
+    //Sendo, densidade igual a popula√ß√£o (total de habitantes) dividida pela √°rea (metros quadrados). 
     //Mostrar mensagens para densidade alta (maior ou igual a 100) ou baixa (menor que 100)
 real habitantes , metro_quadrado , densidade
 escreva ("numero de habitantes: ")
